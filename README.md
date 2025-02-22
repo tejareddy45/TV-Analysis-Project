@@ -22,7 +22,9 @@ To collect TV listings from Flipkart, I used:
 
 **Python Libraries:**
 ***BeautifulSoup*** – Extracted structured HTML content from Flipkart product pages.
+
 ***Selenium*** – Automated page navigation and data extraction for dynamic content.
+
 ***Requests*** – Retrieved HTML content efficiently.
   
 ## 📂 Data Storage:
