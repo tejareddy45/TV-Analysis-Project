@@ -1,16 +1,16 @@
 # Flipkart TV Reviews and Ratings Analysis using Web Scraping
 
-## Project Overview
+## 🔍 Project Overview
 This project analyzes Flipkart TV Reviews and Ratings using Exploratory Data Analysis (EDA). The dataset was collected through web scraping and includes attributes such as brand, screen size, OS, launch year, warranty, price, ratings, and customer reviews. The goal is to identify key factors influencing customer satisfaction and uncover trends in TV sales and ratings.
 
-## Project Objectives
+## 🎯 Project Objectives
 - Extract and analyze customer ratings and reviews to understand user satisfaction.
 - Identify how pricing, brand, and screen size affect ratings.
 - Explore trends in TV purchases based on features like OS, warranty, and launch year.
 - Determine the relationship between discounts and customer ratings.
 - Provide data-driven insights to help buyers make informed decisions.
 - 
-## Web Scraping Technology
+## 🕸️ Web Scraping Technology
 To collect TV listings from Flipkart, I used:
 
 **Python Libraries:**
@@ -18,23 +18,32 @@ To collect TV listings from Flipkart, I used:
 **Selenium** – Automated page navigation and data extraction for dynamic content.
 **Requests** – Retrieved HTML content efficiently.
   
-## Data Storage:
+## 📂 Data Storage:
 Extracted data was stored in CSV format for further processing.
 **Dataset Description**
 The dataset consists of TV listings from Flipkart, with the following attributes:
 
 Brand : The brand name of the TV.
+
 Inches : Screen size of the TV in inches.
+
 Scores : Average score rating given by customers.
+
 Reviews : Total number of customer reviews for the TV.
+
 Ratings : Total number of customer ratings for the TV.
+
 OS : Operating system of the TV.
+
 Launch Year : Year the TV model was released.
+
 Warranty : Warranty period (in years) offered with the TV.
+
 Selling Price : Current selling price of the TV.
+
 Original Price: Original listed price of the TV before discounts.
 
-## Process & Methodology
+## ⚙️Process & Methodology
 - Data Collection – Scraped Flipkart TV data using BeautifulSoup and Selenium.
 - Data Cleaning – Removed duplicates, handled missing values, and formatted text.
 - Exploratory Data Analysis (EDA) – Used Pandas, Matplotlib, and Seaborn to analyze patterns in ratings, reviews, pricing, and discounts.
