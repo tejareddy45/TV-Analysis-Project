@@ -11,16 +11,18 @@ This project analyzes Flipkart TV Reviews and Ratings using Exploratory Data Ana
 - Provide data-driven insights to help buyers make informed decisions.
   
 ## Problem Statement
-- ***Target Feature:*** Reviews or Scores
 
-- ***Problem Statement:*** Identify factors that impact customer satisfaction (measured by Scores or Reviews) and determine which features contribute to better customer reviews for TVs.
+- ***Target Feature :*** Reviews or Scores
 
-- ***Goal:*** This could be useful for understanding what TV features or attributes are associated with higher satisfaction levels and could guide customer-centered product recommendations.
+- ***Problem Statement :*** Identify factors that impact customer satisfaction (measured by Scores or Reviews) and determine which features contribute to better customer reviews for TVs.
+
+- ***Goal :*** This could be useful for understanding what TV features or attributes are associated with higher satisfaction levels and could guide customer-centered product recommendations.
 
 ## 🕸️ Web Scraping Technology
 To collect TV listings from Flipkart, I used:
 
-**Python Libraries:**
+**Python Libraries :**
+
 ***BeautifulSoup*** – Extracted structured HTML content from Flipkart product pages.
 
 ***Selenium*** – Automated page navigation and data extraction for dynamic content.
