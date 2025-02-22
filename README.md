@@ -9,7 +9,7 @@ This project analyzes Flipkart TV Reviews and Ratings using Exploratory Data Ana
 - Explore trends in TV purchases based on features like OS, warranty, and launch year.
 - Determine the relationship between discounts and customer ratings.
 - Provide data-driven insights to help buyers make informed decisions.
-- 
+  
 ## Problem Statement
 - ***Target Feature:*** Reviews or Scores
 
