@@ -49,6 +49,8 @@ The dataset consists of TV listings from Flipkart, with the following attributes
 ***Selling Price*** : Current selling price of the TV.
 
 ***Original Price*** : Original listed price of the TV before discounts.
+![Screenshot 2025-02-22 230623](https://github.com/user-attachments/assets/66362966-bef5-4e74-a4f8-50bb2b050e77)
+
 
 ## ⚙️Process & Methodology
 - ***Data Collection*** – Scraped Flipkart TV data using BeautifulSoup and Selenium.
